@@ -1,1 +1,1 @@
-# KVStoreWorkShop
+# Key-Value Store WorkShop
